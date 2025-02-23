@@ -220,9 +220,10 @@ footer {
 
     /* Stack child divs inside sections */
     #home, #experience1, #project1, #education, #contact, #bio, #experience2, #project2, #certifications, #links {
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: 20px;
+        margin-right: 20px;
     }
+
 
     nav ul li {
         display: block;
