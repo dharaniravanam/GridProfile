@@ -76,7 +76,6 @@ img
     height: 100vh;
     grid-gap: 0.5rem;
     border-radius: var(--my-radius);
-    margin-right: 30px;
     text-align: justify;
 
 }
