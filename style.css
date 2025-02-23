@@ -21,6 +21,7 @@ body {
 nav {
     position: fixed;
     background: var(--primary-bg);
+    width: 100%;
 }
 
 nav ul {
